@@ -1,4 +1,4 @@
-baseURL = 'http://ouse.blog/'
+baseURL = 'https://ouse.blog'
 languageCode = 'en-us'
 title = 'Ouse Blog'
 theme = 'etch'
